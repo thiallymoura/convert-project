@@ -1,7 +1,7 @@
 <h1> 🚀 Projeto prático - Conversor de Moedas</h1>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./img/readme.png">
 </p>
 
 ## 🚀 Tecnologias
